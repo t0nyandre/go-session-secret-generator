@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/gen-secret.png" alt="Logo" width="350" height="350" />
+    <img src="images/gensecret.png" alt="Logo" width="350" height="350" />
 </div>
 
 [![goversion]](https://gitlab.com/t0nyandre/go-session-secret-generator)
