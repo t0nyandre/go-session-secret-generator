@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"gitlab.com/t0nyandre/go-session-secret-generator/pkg/gensecret"
+	"github.com/t0nyandre/go-session-secret-generator/pkg/gensecret"
 )
 
 func main() {
